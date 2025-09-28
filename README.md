@@ -24,7 +24,7 @@ I’m a **Motivated Electronics and Telecommunications student** at the Universi
 - Planning to implement a **Wi-Fi server** for **remote monitoring and control**.  
 
 ### **Note-App Web Application**  
-[Live Demo](https://note-app-1vhm.onrender.com/notes) | [GitHub Repo](#)  
+[Live Demo](https://note-app-1vhm.onrender.com/notes)   
 - Developed a **note-taking web application** with **Spring Boot** and **Thymeleaf**.  
 - Implemented **user authentication** and **RESTful APIs** for creating, editing, and storing notes.  
 - Integrated with an **online PostgreSQL database** for persistent storage.  
