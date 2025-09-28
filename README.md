@@ -40,7 +40,6 @@ I’m a **Motivated Electronics and Telecommunications student** at the Universi
 
 - Email: [voicumihai49@gmail.com](mailto:voicumihai49@gmail.com)  
 - LinkedIn: [mihai-voicu](https://www.linkedin.com/in/vasile-mihai-voicu-088734344/)  
-- GitHub: [MihaiSpintecatorul76](https://github.com/MihaiSpintecatorul76)  
 
 ---
 
