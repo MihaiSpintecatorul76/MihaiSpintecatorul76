@@ -6,7 +6,7 @@ I’m a **Motivated Electronics and Telecommunications student** at the Universi
 
 ## 🛠️ Skills
 
-**Programming:** C++, Java, HTML, CSS, JavaScript  
+**Programming:** C++, Java, HTML, CSS 
 **Embedded / Hardware:** ESP32, Arduino, PCB design, MPU6050, motor control (PWM)  
 **Software / Tools:** Git, GitHub, Arduino IDE, Spring Boot, Thymeleaf, Maven, KiCAD
 **Concepts:** Object-Oriented Programming, FreeRTOS, PID control, Embedded Systems  
